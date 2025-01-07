@@ -1,0 +1,5 @@
+[project]
+name = "claude-secure-coding-rules"
+version = "0.1.0"
+description = "Secure Coding Rules for Claude Code with a particular emphasis on AIML projects"
+requires-python = ">=3.10"
